@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Three Signature';
+    src: url(https://cdn.jsdelivr.net/gh/wawangid/font@main/Three-Signature.eot);
+    src: url(https://cdn.jsdelivr.net/gh/wawangid/font@main/Three-Signature.eot?#iefix) format('embedded-opentype'),
+         url(https://cdn.jsdelivr.net/gh/wawangid/font@main/Three-Signature.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/wawangid/font@main/Three-Signature.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/wawangid/font@main/Three-Signature.ttf)  format('truetype'),
+         url(https://cdn.jsdelivr.net/gh/wawangid/font@main/Three-Signature.svg#Three Signature) format('svg');
+}
